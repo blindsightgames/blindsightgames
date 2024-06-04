@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game>
+  <title>Icaria</title>
+  <!--  <release-date>2024</release-date> -->
+  <website></website>
+
+  <prices>
+    <price>Free Demo on Steam</price>
+  </prices>
+	
+
+  <!-- Link to request press copy: -->
+  <press-copy-request></press-copy-request>
+
+  <platforms>
+    <platform>
+      <name>Steam</name>
+      <link>https://store.steampowered.com/app/2613890/Icaria/</link>
+    </platform>
+  </platforms>
+
+  <description>Build a colony where your drones to exactly what you tell them to. Program a team of robots to gather resources, scale up production, reshape terrain, and expand your colony on a procedurally generated alien world.</description>
+
+  <!-- Choose between a single block: -->
+  <history>Icaria started in July 2019 as an exploration into procedural generation and emergent behavior;
+  a sandbox for playing with lots of simple robots and a programming language designed around distributed solutions to problems.
+  From there it evolved into a colony builder and factory automation game, inspired by NASA's robots
+  on Mars and the vision of Project Daedalus, trying to answer the question "how would you explore a
+  planet around another star?"</history>
+
+  <features>
+  	<feature>Robots, Conveyors, Factories, and automated Crafting.</feature>
+    <feature>Everything is programmable.</feature>
+	<feature>A procedural world; each playthrough is unique.</feature>
+	<feature>Mutable voxel terrain where each block is a useful resource.</feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Demo Release Trailer</name>
+      <youtube>
+        la-A0N-5-18
+      </youtube>
+    </trailer>
+    <trailer>
+      <name>Reveal Trailer</name>
+      <youtube>
+        Ae2Co_Jzv0s
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+    <steam>
+		2613890
+    </steam>
+  </widgets>
+
+  <contacts>
+    <contact>
+      <name>Ken Oetzel</name>
+      <mail>ark3nhammer@gmail.com</mail>
+    </contact>
+  </contacts>
+</game>
